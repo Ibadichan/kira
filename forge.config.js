@@ -7,7 +7,7 @@ module.exports = {
       name: '@electron-forge/publisher-github',
       config: {
         repository: {
-          owner: 'me',
+          owner: 'Ibadichan',
           name: 'kira'
         },
         prerelease: true
